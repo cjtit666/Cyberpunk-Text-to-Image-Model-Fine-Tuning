@@ -1,2 +1,4 @@
 # Cyberpunk-Text-to-Image-Model-Fine-Tuning
 赛博朋克风格的文本到图像生成模型微调
+详细的使用指南在文件夹里面的readme文件里
+这是基于一个简单的VQGAN和Min-DellE模型的文生图系统基础上改进的特定风格的文生图系统的微调
